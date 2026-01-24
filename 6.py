@@ -65,4 +65,3 @@ graph.add_edge('repeted_roots',END)
 graph.add_edge('no_real_roots',END)
 
 workflow=graph.compile()
-
